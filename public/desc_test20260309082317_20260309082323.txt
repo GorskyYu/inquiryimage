@@ -1,0 +1,21 @@
+test
+**Line Bot 成員追蹤分析｜掌握數據，精準行銷**
+
+---
+
+**必買亮點**
+
+*   ✨ 分析用戶行為，優化互動策略。
+*   ✨ 即時追蹤數據，掌握成員輪廓。
+*   ✨ 提高轉換率，精準鎖定目標客群。
+*   ✨ 儀表板呈現，數據一目瞭然。
+
+---
+
+**規格與資訊**
+
+*   📈 功能：Line Bot 成員數據追蹤、分析報表
+*   📍 適用：Line Bot 管理者、行銷人員
+*   ⚙️ 用法：連結 Line Bot 後台，啟用追蹤功能
+*   💻 儀表板網址: [https://tracking-line-prod-48e7277f81cf.herokuapp.com/dashboard/members/25](https://tracking-line-prod-48e7277f81cf.herokuapp.com/dashboard/members/25)
+*   💰 價格：請私訊詢問
